@@ -22,6 +22,7 @@ I'm passionate about coding, building projects, and constantly acquiring new ski
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Haskell](https://img.shields.io/badge/-Haskell*-gray?style=flat-square&logo=haskell)
+![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=haskell)
+![Swiftt](https://img.shields.io/badge/-Swift*-gray?style=flat-square&logo=swift)
 
 <sup>* Currently learning.</sup>
