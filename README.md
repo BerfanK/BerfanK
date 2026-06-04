@@ -2,6 +2,8 @@
 I'm passionate about coding, building projects, and constantly acquiring new skills. With a focus on web technologies, I also have a keen interest in expanding my expertise across various fields of software development.
 
 *© The profile picture(s) I use are not mine.*
+
+<!--
 <hr />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
@@ -26,3 +28,4 @@ I'm passionate about coding, building projects, and constantly acquiring new ski
 ![Swiftt](https://img.shields.io/badge/-Swift*-gray?style=flat-square&logo=swift)
 
 <sup>* Currently learning.</sup>
+-->
